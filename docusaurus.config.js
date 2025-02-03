@@ -72,6 +72,11 @@ const config = {
             to: "/portfolio",
           },
           {
+            label: "Info",
+            position: "left",
+            to: "/info",
+          },
+          {
             label: "CmdrX",
             position: "left",
             to: "/redirect?link=cmdrx",

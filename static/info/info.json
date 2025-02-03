@@ -1,0 +1,62 @@
+{
+  "Work": [
+    {
+      "id": "biraru-studios",
+      "image": "https://biraru.org/img/icon.png",
+      "title": "Biraru Studio's",
+      "icon": "fa-solid fa-building",
+      "titleColor": "rgb(255, 255, 0)",
+      "status": {
+        "current": true,
+        "dateRange": "2021 - Present"
+      },
+      "skills": {
+        "primary": ["Roblox Development", "Web Development"],
+        "tools": ["Luau", "JavaScript", "HTML", "CSS"]
+      },
+      "description": "Biraru Studio's is a Roblox development studio specializing in creating innovative games and web solutions.",
+      "noHover": true
+    },
+    {
+      "id": "trigonal-studios",
+      "image": "https://biraru.org/img/icon.png",
+      "title": "Trigonal Studio's",
+      "icon": "fa-solid fa-clock-rotate-left",
+      "titleColor": "rgb(255, 255, 0)",
+      "status": {
+        "previously": true,
+        "dateRange": "2021 - 2024"
+      },
+      "skills": {
+        "primary": ["Roblox Development"]
+      },
+      "description": "Previously known as Trigonal Studio's, now rebranded to Biraru Studio's.",
+      "noHover": true
+    }
+  ],
+  "Projects": [
+    {
+      "id": "cmdrx",
+      "image": "https://cmdrx.biraru.org/name.png",
+      "title": "CmdrX",
+      "icon": "fa-solid fa-terminal",
+      "titleColor": "rgb(156, 89, 183)",
+      "skills": {
+        "primary": ["Luau", "JavaScript", "CSS"]
+      },
+      "links": [
+        {
+          "href": "https://cmdrx.biraru.org",
+          "text": "Documentation",
+          "icon": "fa-solid fa-book"
+        }
+      ],
+      "description": "An extensible command console for Roblox developers, featuring custom implementations for specific use cases.",
+      "features": [
+        "Custom command implementation",
+        "Extended functionality",
+        "Developer-friendly interface"
+      ]
+    }
+  ]
+}

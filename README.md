@@ -1,7 +1,7 @@
 # Portfolio
 
 Portfolio for Biraru Studio's.
-Copyright © ${new Date().getFullYear()} Biraru Studio's, republication and redistribution are prohibited. Source code is open sourced for educational purposes only.
+Copyright © 2024 Biraru Studio's, republication and redistribution are prohibited. Source code is open sourced for educational purposes only.
 
 ### Installation
 
