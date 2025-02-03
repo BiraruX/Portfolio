@@ -1,7 +1,7 @@
 [
   {
     "category": "Work",
-    "image": "img/icon.png",
+    "image": "https://biraru.org/img/icon.png",
     "title": "Biraru Studio's",
     "titleColor": "rgb(255, 255, 0)",
     "languages": ["Roblox", "Web Developent"],
@@ -10,7 +10,7 @@
   },
   {
     "category": "Work",
-    "image": "img/icon.png",
+    "image": "https://biraru.org/img/icon.png",
     "title": "Trigonal Studio's",
     "titleColor": "rgb(255, 255, 0)",
     "description": "An old name for Biraru Studio's.",
