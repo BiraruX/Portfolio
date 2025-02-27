@@ -56,6 +56,10 @@ const config = {
       {
         adClient: "ca-pub-4006553476922730"
       },
+      '@docusaurus/plugin-google-tag-manager',
+      {
+        containerId: 'GTM-KXQVF6RS',
+      },
     ],
   ],
 
