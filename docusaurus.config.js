@@ -50,6 +50,15 @@ const config = {
     ],
   ],
 
+  plugins: [
+    [
+      "@gracefullight/docusaurus-plugin-google-adsense",
+      {
+        adClient: "ca-pub-4006553476922730"
+      },
+    ],
+  ],
+
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
