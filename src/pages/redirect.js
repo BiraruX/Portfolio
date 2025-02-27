@@ -14,7 +14,7 @@ const RedirectPage = () => {
       cmdrx: "https://cmdrx.biraru.org",
       discord: "https://discord.gg/KTbpAEhWsf",
       github: "https://github.com/BiraruX",
-      "github-repos": "https://github.com/BiraruX?tab=repositories",
+      "github-org": "https://github.com/BiraruStudios",
       roblox: "https://www.roblox.com/users/2388437852",
       "roblox-group": "https://www.roblox.com/communities/34538893",
       youtube: "https://www.youtube.com/@BiraruX",

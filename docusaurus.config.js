@@ -104,16 +104,16 @@ const config = {
             to: "/redirect?link=cmdrx",
           },
           {
+            href: "/redirect?link=discord",
+            position: "right",
+            className: "navbar-discord-icon",
+            html: '<i class="fa-brands fa-discord"></i>',
+          },
+          {
             href: "/redirect?link=github",
             position: "right",
             className: "navbar-github-icon",
             html: '<i class="fa-brands fa-github"></i>',
-          },
-          {
-            href: "/redirect?link=x",
-            position: "right",
-            className: "navbar-x-icon",
-            html: '<i class="fa-brands fa-x-twitter"></i>',
           },
           {
             href: "/redirect?link=youtube",
@@ -121,32 +121,34 @@ const config = {
             className: "navbar-youtube-icon",
             html: '<i class="fa-brands fa-youtube"></i>',
           },
+          {
+            href: "/redirect?link=x",
+            position: "right",
+            className: "navbar-x-icon",
+            html: '<i class="fa-brands fa-x-twitter"></i>',
+          },
         ],
       },
       footer: {
         links: [
           {
-            title: "Links",
+            title: "Profiles",
             items: [
-              {
-                label: "Roblox Profile",
-                href: "/redirect?link=roblox",
-              },
-              {
-                label: "Roblox Group",
-                href: "/redirect?link=roblox-group",
-              },
               {
                 label: "Github Profile",
                 href: "/redirect?link=github",
               },
               {
-                label: "X Profile",
-                href: "/redirect?link=x",
+                label: "Roblox Profile",
+                href: "/redirect?link=roblox",
               },
               {
                 label: "YouTube Channel",
                 href: "/redirect?link=youtube",
+              },
+              {
+                label: "X Profile",
+                href: "/redirect?link=x",
               },
             ],
           },
@@ -157,14 +159,18 @@ const config = {
                 label: "Discord",
                 href: "/redirect?link=discord",
               },
+              {
+                label: "Roblox Group",
+                href: "/redirect?link=roblox-group",
+              },
             ],
           },
           {
             title: "More",
             items: [
               {
-                label: "GitHub Repository's",
-                href: "/redirect?link=github-repos",
+                label: "GitHub Organization",
+                href: "/redirect?link=github-org",
               },
               {
                 label: "CmdrX Website",
