@@ -63,6 +63,13 @@ const config = {
         containerId: 'GTM-KXQVF6RS',
       },
     ],
+    [
+      '@docusaurus/plugin-google-gtag',
+      {
+        trackingID: 'G-8L41TZXWSL',
+        anonymizeIP: false,
+      },
+    ],
   ],
 
   themeConfig:
