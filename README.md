@@ -26,4 +26,4 @@ This command generates static content into the `build` directory and can be serv
 
 
 
-**Copyright © 2024 Biraru Studio's, republication and redistribution are prohibited. Source code is open sourced for educational purposes only.**
+**Copyright © 2025 Biraru Studio's, republication and redistribution are prohibited. Source code is open sourced for educational purposes only.**
